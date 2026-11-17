@@ -293,6 +293,13 @@ window.TANG_SITE = {
   ],
   news: [
     {
+      date: "2026-11-16 10:00-11:30",
+      type: "Seminar",
+      title: "Glacier Ecosystems under Global Change",
+      speaker: "Prof. Yongqin Liu",
+      url: "https://www.dess.tsinghua.edu.cn/xshd/zjlt.htm"
+    },
+    {
       date: "2026-08-14 14:00-15:00",
       type: "Seminar",
       title: "Some aspects of changes in hydrologic extremes over the Western U.S.",
