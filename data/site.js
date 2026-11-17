@@ -297,7 +297,7 @@ window.TANG_SITE = {
       type: "Seminar",
       title: "Glacier Ecosystems under Global Change",
       speaker: "Prof. Yongqin Liu",
-      url: "https://www.dess.tsinghua.edu.cn/xshd/zjlt.htm"
+      url: "https://www.dess.tsinghua.edu.cn/info/1176/7128.htm"
     },
     {
       date: "2026-08-14 14:00-15:00",
